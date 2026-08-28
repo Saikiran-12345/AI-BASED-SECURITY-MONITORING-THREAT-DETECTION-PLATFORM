@@ -61,7 +61,7 @@ class Command(BaseCommand):
             e = SecurityEvent(
                 user=user,
                 event_type=e_type,
-                description=f"Auto-generated event: {e_type} by {user.username}",
+                description=f"Auto-created event: {e_type} by {user.username}",
                 severity=sev,
                 source=random.choice(['web', 'api', 'mobile', 'internal']),
                 status='NEW',
@@ -128,4 +128,4 @@ class Command(BaseCommand):
             incident.threats.set(list(Threat.objects.order_by('?')[:random.randint(1, 2)]))
 
         self.stdout.write(f'Created 15 incidents.')
-        self.stdout.write(self.style.SUCCESS('Successfully generated all synthetic data.'))
+        self.stdout.write(self.style.SUCCESS('Successfully created all synthetic data.'))

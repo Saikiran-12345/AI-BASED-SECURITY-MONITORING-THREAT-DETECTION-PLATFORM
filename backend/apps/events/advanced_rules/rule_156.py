@@ -1,6 +1,6 @@
 
 # Advanced SIEM Rule 156
-# Automatically generated for massive scale threat detection
+# Created for massive scale threat detection
 import re
 from datetime import datetime, timedelta
 
