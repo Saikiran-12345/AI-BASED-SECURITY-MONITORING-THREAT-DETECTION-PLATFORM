@@ -78,5 +78,13 @@ docker-compose up -d   # starts backend and frontend containers
 ---
 *This README provides the required Installation, Build, and Run sections as requested.*
 
+<<<<<<< HEAD
 ## API Rate Limiting
 Rate limiting is implemented using Django REST Framework throttle classes.
+=======
+## RBAC
+Role-Based Access Control is enforced on all endpoints.
+>>>>>>> feature/user-role-rbac
+
+## RBAC
+Role-Based Access Control is enforced on all endpoints.
