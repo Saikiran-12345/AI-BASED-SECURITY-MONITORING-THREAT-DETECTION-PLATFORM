@@ -77,3 +77,6 @@ docker-compose up -d   # starts backend and frontend containers
 
 ---
 *This README provides the required Installation, Build, and Run sections as requested.*
+
+## Dashboard Exports
+Dashboards can be exported to CSV format.
