@@ -77,3 +77,6 @@ docker-compose up -d   # starts backend and frontend containers
 
 ---
 *This README provides the required Installation, Build, and Run sections as requested.*
+
+## Alert Emails
+Email templates for high-severity alerts.
