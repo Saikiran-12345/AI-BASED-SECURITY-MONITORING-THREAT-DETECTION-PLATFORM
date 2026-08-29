@@ -80,6 +80,7 @@ docker-compose up -d   # starts backend and frontend containers
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## API Rate Limiting
 Rate limiting is implemented using Django REST Framework throttle classes.
 =======
@@ -96,3 +97,10 @@ Security logs are retained for 90 days by default.
 
 ## Log Retention
 Security logs are retained for 90 days by default.
+=======
+## Alert Emails
+Email templates for high-severity alerts.
+>>>>>>> feature/alert-email-templates
+
+## Alert Emails
+Email templates for high-severity alerts.
