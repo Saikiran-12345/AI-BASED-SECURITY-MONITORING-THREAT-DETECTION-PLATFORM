@@ -79,6 +79,7 @@ docker-compose up -d   # starts backend and frontend containers
 *This README provides the required Installation, Build, and Run sections as requested.*
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## API Rate Limiting
 Rate limiting is implemented using Django REST Framework throttle classes.
 =======
@@ -88,3 +89,10 @@ Role-Based Access Control is enforced on all endpoints.
 
 ## RBAC
 Role-Based Access Control is enforced on all endpoints.
+=======
+## Log Retention
+Security logs are retained for 90 days by default.
+>>>>>>> feature/log-retention-policy
+
+## Log Retention
+Security logs are retained for 90 days by default.
