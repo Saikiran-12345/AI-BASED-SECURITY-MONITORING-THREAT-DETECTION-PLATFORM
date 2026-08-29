@@ -81,6 +81,7 @@ docker-compose up -d   # starts backend and frontend containers
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## API Rate Limiting
 Rate limiting is implemented using Django REST Framework throttle classes.
 =======
@@ -104,3 +105,10 @@ Email templates for high-severity alerts.
 
 ## Alert Emails
 Email templates for high-severity alerts.
+=======
+## Dashboard Exports
+Dashboards can be exported to CSV format.
+>>>>>>> feature/dashboard-export-csv
+
+## Dashboard Exports
+Dashboards can be exported to CSV format.
