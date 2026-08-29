@@ -114,6 +114,7 @@ Dashboards can be exported to CSV format.
 Dashboards can be exported to CSV format.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## PR One
 This is an open pull request 1.
 =======
@@ -123,3 +124,10 @@ This is an open pull request 2.
 
 ## PR Two
 This is an open pull request 2.
+=======
+## PR Three
+This is an open pull request 3.
+>>>>>>> feature/pr-three
+
+## PR Three
+This is an open pull request 3.
