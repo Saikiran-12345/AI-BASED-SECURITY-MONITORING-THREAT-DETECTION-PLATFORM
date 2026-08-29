@@ -113,5 +113,13 @@ Dashboards can be exported to CSV format.
 ## Dashboard Exports
 Dashboards can be exported to CSV format.
 
+<<<<<<< HEAD
 ## PR One
 This is an open pull request 1.
+=======
+## PR Two
+This is an open pull request 2.
+>>>>>>> feature/pr-two
+
+## PR Two
+This is an open pull request 2.
